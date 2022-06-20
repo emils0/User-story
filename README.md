@@ -1,6 +1,7 @@
 # Personas
 
 ## Sigmund Smith
+![Sigmund Smith](/assets/sigmund.png)
 
 **Alder:** 21
 
