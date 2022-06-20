@@ -55,5 +55,16 @@ ved at åbne døre og sidde ned. Har svær asthma.
 **Adfærd på sociale medier:** socialt akavet og underlig
 
 ### user story
+Mit haar er saa majestætisk at det daekker min computerskaerm og er ved at tabe mit job hos MIT, det skal trimmes.
 
 ### use cases
+1. Stallman vil gerne have en trimmning
+2. Stallman gaar ind paa Cut'N Go's hjemmeside for at bestille en tid
+3. Stallman vaelger en dameklip under kategoiren *Klipning**
+4. Stallman har slidgigt og skriver i *ekstra oensker feltet* at hun har brug for stoette for at holde doeren og sidde ned.
+5. Stallman vaelger sin favorit frisoer under den tidligst mulige dato.
+7. Frisoren tjaekker om det er mulgit, og det er det. :)
+8. Siden at *ekstra oensker feltet* er markeret, bliver det givet videre til salon manageren automatisk.
+9. Stallman bliver indtastet i systemet efter en successfuld kipning. Hendes haar set nice ud! :)
+10. En tejekboks for billede bliver klikket ja, og hans billede blvier uploaded
+11. Stallmans relaterende information bliver automatisk registreret og har nu et kundekort.
