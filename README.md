@@ -1,6 +1,7 @@
 # Personas
 
 ## Sigmund Smith
+
 ![Sigmund Smith](/assets/sigmund.png)
 
 **Alder:** 21
@@ -17,7 +18,27 @@ siden han gerne vil føle sig som andre mennesker. Har følt sig udenfor siden b
 
 **Adfærd på sociale medier:** aktiv og udadvendt, kan godt lide mennesker :)
 
+### user story
+
+Som frisør-entusiast vil jeg gerne finde en frisør, så jeg kan få en klipnings-oplevelse, fordi jeg har lyst.
+
+### use cases
+Smith vil gerne have en klipning
+Smith gaar ind paa Cut'N Go's hjemmeside for at bestille en tid
+Smith kigger paa listen af services, men ingen passer ham, fordi han er skaldet
+Smith ser en tekstboks med alternative oenskeded behandlinger, han skriver at han gerne vil poleres.
+Smith vaelger en dato, en liste popper op med ledige frisoere og vaelger muligheden "tilfaeldig"
+Salonen faar hands bestilling i deres indboks, og bliver forwarden til den korrekte frisor.
+Frisoren tjaekker om det er mulgit, hun ved ikke hvordan man polere skaldede mennesker, men hendes kolega kan.
+Frisoren forwarder den til sin kolega
+Kolega tjekker og acceptere, hvor Smith faar en besked om evt aendringer og udregenede pris 
+Smith bliver indtastet i systemet efter en successfuld polering. Hans skald skinner! :)
+En tejekboks for billede bliver klikket ja, og hans billede blvier uploaded
+Smiths relaterende information bliver automatisk registreret og har nu et kundekort.
+
+
 ## Linda Stallman
+
 ![Linda Stallman](/assets/linda.jpeg)
 
 **Alder:** 34
@@ -32,3 +53,7 @@ ved at åbne døre og sidde ned. Har svær asthma.
 **Interesser:** programmering, makeup og sociale medier. Poster ofte sig selv og kode til tiktok
 
 **Adfærd på sociale medier:** socialt akavet og underlig
+
+### user story
+
+### use cases
