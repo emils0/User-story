@@ -23,18 +23,14 @@ siden han gerne vil føle sig som andre mennesker. Har følt sig udenfor siden b
 Som frisør-entusiast vil jeg gerne finde en frisør, så jeg kan få en klipnings-oplevelse, fordi jeg har lyst.
 
 ### use cases
-1. Smith vil gerne have en klipning
-2. Smith gaar ind paa Cut'N Go's hjemmeside for at bestille en tid
-3. Smith kigger paa listen af services, men ingen passer ham, fordi han er skaldet
-4. Smith ser en tekstboks med alternative oenskeded behandlinger, han skriver at han gerne vil poleres.
-5. Smith vaelger en dato, en liste popper op med ledige frisoere og vaelger muligheden "tilfaeldig"
-6. Salonen faar hands bestilling i deres indboks, og bliver forwarden til den korrekte frisor.
-7. Frisoren tjaekker om det er mulgit, hun ved ikke hvordan man polere skaldede mennesker, men hendes kolega kan.
-8. Frisoren forwarder den til sin kolega
-9. Kolega tjekker og acceptere, hvor Smith faar en besked om evt aendringer og udregenede pris 
-10. Smith bliver indtastet i systemet efter en successfuld polering. Hans skald skinner! :)
-11. En tejekboks for billede bliver klikket ja, og hans billede blvier uploaded
-12. Smiths relaterende information bliver automatisk registreret og har nu et kundekort.
+| ID | Som<bruger> | Vil jeg gerne<goere noget>                         | ...Saa jeg kan<opnaa noget>                    | Accept kriterie                                                |
+|----|-------------|----------------------------------------------------|------------------------------------------------|----------------------------------------------------------------|
+| 1  | Sigmund     | gaa ind paa Cut'n Go's hjemmeside                  | Saa jeg kan bestille en tid.                   | Hjemmeside skal stabil                                         |
+| 2  | Sigmund     | Klikke paa kategorien "Andet"                      | Vaelge en brugerdefineret behandling           |                                                                |
+| 3  | Sigmund     | Vil gerne vaelge en dato                           | Saa jeg kan faa en polering.                   | Der er tid                                                     |
+| 4  | Sigmund     | Vil gerne vaelge en tilfaeldig frisoer             | Faa en frisoer                                 | Datoen er blevet valgt, og frisoeren er tilgaengelig den dato. |
+| 5  | Sigmund     | Vil gerne faa at vide om han kan faa en polering   | saa han ved om han kan faa en polering         | Man kan faa en tilbagemaelding.                                |
+| 6  | Sigmund     | Vil gerne kunne henvise en note med sin bestilling | saa han kan faa hjaelp med sit syn og hoerelse | At de kan of vil hjaelpe ham                                   |
 
 
 ## Linda Stallman
@@ -58,6 +54,7 @@ ved at åbne døre og sidde ned. Har svær asthma.
 Mit haar er saa majestætisk at det daekker min computerskaerm og er ved at tabe mit job hos MIT, det skal trimmes.
 
 ### use cases
+
 | ID | Som<bruger> | Vil jeg gerne<goere noget>                         | ...Saa jeg kan<opnaa noget>          | Accept kriterie                                                |
 |----|-------------|----------------------------------------------------|--------------------------------------|----------------------------------------------------------------|
 | 1  | Linda       | gaa ind paa Cut'n Go's hjemmeside                  | Saa jeg kan bestille en tid.         | Hjemmeside skal stabil                                         |
