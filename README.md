@@ -11,7 +11,7 @@
 
 **Problemer og udfordringer:** skaldet, delvis blind og døv
 
-**Interesser:** Internettet, frit og open source software, tyskland
+**Interesser:** Internettet, frit og open source software, at blive klippet, tyskland
 
 **Adfærd på sociale medier:** aktiv og udadvendt
 
