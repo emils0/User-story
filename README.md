@@ -58,17 +58,12 @@ ved at åbne døre og sidde ned. Har svær asthma.
 Mit haar er saa majestætisk at det daekker min computerskaerm og er ved at tabe mit job hos MIT, det skal trimmes.
 
 ### use cases
-| USER STORY ID | Som<bruger> | Vil jeg gerne<goere noget>        | ...Saa jeg kan<opnaa noget>  | Accept kriterie |
-|---------------|-------------|-----------------------------------|------------------------------|-----------------|
-| 1             | Linda       | gaa ind paa Cut'n Go's hjemmeside | Saa jeg kan bestille en tid. |                 |
+| USER STORY ID | Som<bruger> | Vil jeg gerne<goere noget>                         | ...Saa jeg kan<opnaa noget>          | Accept kriterie                                                |
+|---------------|-------------|----------------------------------------------------|--------------------------------------|----------------------------------------------------------------|
+| 1             | Linda       | gaa ind paa Cut'n Go's hjemmeside                  | Saa jeg kan bestille en tid.         | Hjemmeside skal stabil                                         |
+| 2             | Linda       | Klikke paa kategorien "Klipning"                   | Vaelge min frisyre                   |                                                                |
+| 3             | Linda       | Vil gerne vaelge en dato                           | Saa jeg kan faa en klipning.         | Der er tid                                                     |
+| 4             | Linda       | Vil gerne vaelge sin foretrukne frisoer            | Faa min foretrukne frisoer           | Datoen er blevet valgt, og frisoeren er tilgaengelig den dato. |
+| 5             | Linda       | Vil gerne kunne henvise en note med sin bestilling | saa hun kan faa hjaelp               | At de kan of vil hjaelpe hende                                 |
+| 6             | Linda       | Vil gerne vaelge om hun vil oploade sit billede    | Saa hun kan faa sit billede oploaded | At hun har en tid som matcher op med billedet.                 |
 
-1. Stallman vil gerne have en trimmning
-2. Stallman gaar ind paa Cut'N Go's hjemmeside for at bestille en tid
-3. Stallman vaelger en dameklip under kategoiren *Klipning**
-4. Stallman har slidgigt og skriver i *ekstra oensker feltet* at hun har brug for stoette for at holde doeren og sidde ned.
-5. Stallman vaelger sin favorit frisoer under den tidligst mulige dato.
-7. Frisoren tjaekker om det er mulgit, og det er det. :)
-8. Siden at *ekstra oensker feltet* er markeret, bliver det givet videre til salon manageren automatisk.
-9. Stallman bliver indtastet i systemet efter en successfuld kipning. Hendes haar set nice ud! :)
-10. En tejekboks for billede bliver klikket ja, og hans billede blvier uploaded
-11. Stallmans relaterende information bliver automatisk registreret og har nu et kundekort.
