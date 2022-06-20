@@ -16,7 +16,7 @@
 **Adfærd på sociale medier:** aktiv og udadvendt
 
 ## Linda Stallman
-![Linda Stallman](/assets/linda.png)
+![Linda Stallman](/assets/linda.jpeg)
 
 **Alder:** 34
 
