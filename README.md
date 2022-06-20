@@ -58,12 +58,12 @@ ved at åbne døre og sidde ned. Har svær asthma.
 Mit haar er saa majestætisk at det daekker min computerskaerm og er ved at tabe mit job hos MIT, det skal trimmes.
 
 ### use cases
-| USER STORY ID | Som<bruger> | Vil jeg gerne<goere noget>                         | ...Saa jeg kan<opnaa noget>          | Accept kriterie                                                |
-|---------------|-------------|----------------------------------------------------|--------------------------------------|----------------------------------------------------------------|
-| 1             | Linda       | gaa ind paa Cut'n Go's hjemmeside                  | Saa jeg kan bestille en tid.         | Hjemmeside skal stabil                                         |
-| 2             | Linda       | Klikke paa kategorien "Klipning"                   | Vaelge min frisyre                   |                                                                |
-| 3             | Linda       | Vil gerne vaelge en dato                           | Saa jeg kan faa en klipning.         | Der er tid                                                     |
-| 4             | Linda       | Vil gerne vaelge sin foretrukne frisoer            | Faa min foretrukne frisoer           | Datoen er blevet valgt, og frisoeren er tilgaengelig den dato. |
-| 5             | Linda       | Vil gerne kunne henvise en note med sin bestilling | saa hun kan faa hjaelp               | At de kan of vil hjaelpe hende                                 |
-| 6             | Linda       | Vil gerne vaelge om hun vil oploade sit billede    | Saa hun kan faa sit billede oploaded | At hun har en tid som matcher op med billedet.                 |
+| ID | Som<bruger> | Vil jeg gerne<goere noget>                         | ...Saa jeg kan<opnaa noget>          | Accept kriterie                                                |
+|----|-------------|----------------------------------------------------|--------------------------------------|----------------------------------------------------------------|
+| 1  | Linda       | gaa ind paa Cut'n Go's hjemmeside                  | Saa jeg kan bestille en tid.         | Hjemmeside skal stabil                                         |
+| 2  | Linda       | Klikke paa kategorien "Klipning"                   | Vaelge min frisyre                   |                                                                |
+| 3  | Linda       | Vil gerne vaelge en dato                           | Saa jeg kan faa en klipning.         | Der er tid                                                     |
+| 4  | Linda       | Vil gerne vaelge sin foretrukne frisoer            | Faa min foretrukne frisoer           | Datoen er blevet valgt, og frisoeren er tilgaengelig den dato. |
+| 5  | Linda       | Vil gerne kunne henvise en note med sin bestilling | saa hun kan faa hjaelp               | At de kan of vil hjaelpe hende                                 |
+| 6  | Linda       | Vil gerne vaelge om hun vil oploade sit billede    | Saa hun kan faa sit billede oploaded | At hun har en tid som matcher op med billedet.                 |
 
