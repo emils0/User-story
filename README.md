@@ -58,9 +58,9 @@ ved at åbne døre og sidde ned. Har svær asthma.
 Mit haar er saa majestætisk at det daekker min computerskaerm og er ved at tabe mit job hos MIT, det skal trimmes.
 
 ### use cases
-| **USER STORY ID** | **Som**<bruger> | **Vil jeg gerne**<goere noget>    | **...Saa jeg kan**<opnaa noget> | **Accept kriterie** |
-| 1                 | Linda           | gaa ind paa Cut'n Go's hjemmeside | Saa hun kan bestille en tid.    |                     |
-|                   |                 |                                   |                                 |                     |
+| USER STORY ID | Som<bruger> | Vil jeg gerne<goere noget>        | ...Saa jeg kan<opnaa noget>  | Accept kriterie |
+|---------------|-------------|-----------------------------------|------------------------------|-----------------|
+| 1             | Linda       | gaa ind paa Cut'n Go's hjemmeside | Saa jeg kan bestille en tid. |                 |
 
 1. Stallman vil gerne have en trimmning
 2. Stallman gaar ind paa Cut'N Go's hjemmeside for at bestille en tid
