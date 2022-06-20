@@ -23,18 +23,18 @@ siden han gerne vil føle sig som andre mennesker. Har følt sig udenfor siden b
 Som frisør-entusiast vil jeg gerne finde en frisør, så jeg kan få en klipnings-oplevelse, fordi jeg har lyst.
 
 ### use cases
-Smith vil gerne have en klipning
-Smith gaar ind paa Cut'N Go's hjemmeside for at bestille en tid
-Smith kigger paa listen af services, men ingen passer ham, fordi han er skaldet
-Smith ser en tekstboks med alternative oenskeded behandlinger, han skriver at han gerne vil poleres.
-Smith vaelger en dato, en liste popper op med ledige frisoere og vaelger muligheden "tilfaeldig"
-Salonen faar hands bestilling i deres indboks, og bliver forwarden til den korrekte frisor.
-Frisoren tjaekker om det er mulgit, hun ved ikke hvordan man polere skaldede mennesker, men hendes kolega kan.
-Frisoren forwarder den til sin kolega
-Kolega tjekker og acceptere, hvor Smith faar en besked om evt aendringer og udregenede pris 
-Smith bliver indtastet i systemet efter en successfuld polering. Hans skald skinner! :)
-En tejekboks for billede bliver klikket ja, og hans billede blvier uploaded
-Smiths relaterende information bliver automatisk registreret og har nu et kundekort.
+1. Smith vil gerne have en klipning
+2. Smith gaar ind paa Cut'N Go's hjemmeside for at bestille en tid
+3. Smith kigger paa listen af services, men ingen passer ham, fordi han er skaldet
+4. Smith ser en tekstboks med alternative oenskeded behandlinger, han skriver at han gerne vil poleres.
+5. Smith vaelger en dato, en liste popper op med ledige frisoere og vaelger muligheden "tilfaeldig"
+6. Salonen faar hands bestilling i deres indboks, og bliver forwarden til den korrekte frisor.
+7. Frisoren tjaekker om det er mulgit, hun ved ikke hvordan man polere skaldede mennesker, men hendes kolega kan.
+8. Frisoren forwarder den til sin kolega
+9. Kolega tjekker og acceptere, hvor Smith faar en besked om evt aendringer og udregenede pris 
+10. Smith bliver indtastet i systemet efter en successfuld polering. Hans skald skinner! :)
+11. En tejekboks for billede bliver klikket ja, og hans billede blvier uploaded
+12. Smiths relaterende information bliver automatisk registreret og har nu et kundekort.
 
 
 ## Linda Stallman
