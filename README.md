@@ -18,7 +18,7 @@ siden han gerne vil føle sig som andre mennesker. Har følt sig udenfor siden b
 
 **Adfærd på sociale medier:** aktiv og udadvendt, kan godt lide mennesker :)
 
-### user story
+### User story
 
 Som frisør-entusiast vil jeg gerne finde en frisør, så jeg kan få en klipnings-oplevelse, fordi jeg har lyst.
 
@@ -49,7 +49,7 @@ ved at åbne døre og sidde ned. Har svær asthma.
 
 **Adfærd på sociale medier:** socialt akavet og underlig
 
-### user story
+### User story
 
 Mit haar er saa majestætisk at det daekker min computerskaerm og er ved at tabe mit job hos MIT, det skal trimmes.
 
